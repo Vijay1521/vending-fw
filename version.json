@@ -1,8 +1,8 @@
 {
-    "version":  5,
+    "version":  6,
     "url":  "https://raw.githubusercontent.com/Vijay1521/vending-fw/main/firmware.bin.signed",
     "size":  560084,
-    "md5":  "6176b27ffdc9bc937d1dfce71cadbe04",
+    "md5":  "02235f47b159b9482640d8520e1b4c3b",
     "devices":  [
                     "40F52038D419"
                 ]

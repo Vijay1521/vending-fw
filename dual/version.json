@@ -1,0 +1,10 @@
+{
+    "version":  3,
+    "variant":  "dual",
+    "url":  "https://raw.githubusercontent.com/Vijay1521/vending-fw/main/dual/firmware_signed.txt",
+    "size":  575892,
+    "md5":  "a20c169ec59389be2140b5d1a9501890",
+    "devices":  [
+                    "DC4F226123A0"
+                ]
+}
